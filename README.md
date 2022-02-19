@@ -10,3 +10,4 @@ Bhargavi Upperla – Tasked with constructing the LED connections, Push Button c
 Rishab Vyas – Tasked with creating the code for the for the traffic light project.
 Jairus Morrow – Tasked with creating the schematic and testing the code for 4 digit 7 segment display.
 
+YouTube Video Link Demonstration: https://youtu.be/Sy8hxDKD4YM
